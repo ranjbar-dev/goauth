@@ -1,0 +1,7 @@
+accounts:
+  - id: 1
+    name: name
+    username: username
+    site: site.com
+    secret: goauth-secret
+
